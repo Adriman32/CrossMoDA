@@ -1,0 +1,1 @@
+# Test different image types in dataproc
